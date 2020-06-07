@@ -1,2 +1,2 @@
 # ERC20-Tokens
-Ethereum Solidity Contracts
+Ethereum ERC20 Tokens Solidity Contracts
